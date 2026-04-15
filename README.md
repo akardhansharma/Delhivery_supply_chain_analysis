@@ -116,6 +116,5 @@ jupyter notebook python/delhivery_supply_chain_analysis.ipynb
 ```
 
 ---
-
 ## 👤 Author 
-[https://www.linkedin.com/in/akardhan/](#) • [https://github.com/akardhansharma](#)
+[LinkedIn](https://www.linkedin.com/in/akardhan/) • [GitHub](https://github.com/akardhansharma)
