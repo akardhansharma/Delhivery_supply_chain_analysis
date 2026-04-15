@@ -1,0 +1,6 @@
+# Anaconda
+anaconda_projects/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+

@@ -1,0 +1,119 @@
+route,source_state,destination_state,total_trips,avg_delay_mins,delay_rate_pct,impact_score
+Andhra Pradesh → Andhra Pradesh,Andhra Pradesh,Andhra Pradesh,3755,37.9,85.6,142.0
+Andhra Pradesh → Karnataka,Andhra Pradesh,Karnataka,314,67.5,89.8,21.0
+Andhra Pradesh → Orissa,Andhra Pradesh,Orissa,147,131.5,91.2,19.0
+Andhra Pradesh → Tamil Nadu,Andhra Pradesh,Tamil Nadu,141,120.7,100.0,17.0
+Andhra Pradesh → Telangana,Andhra Pradesh,Telangana,1182,144.6,97.9,171.0
+Arunachal Pradesh → Assam,Arunachal Pradesh,Assam,180,118.7,94.4,21.0
+Assam → Arunachal Pradesh,Assam,Arunachal Pradesh,146,57.2,91.8,8.0
+Assam → Assam,Assam,Assam,1390,84.4,87.2,117.0
+Assam → Delhi,Assam,Delhi,1137,994.8,99.6,1131.0
+Assam → West Bengal,Assam,West Bengal,149,655.4,98.7,98.0
+Bihar → Bihar,Bihar,Bihar,2770,97.2,93.2,269.0
+Bihar → Haryana,Bihar,Haryana,1156,486.0,99.2,562.0
+Bihar → Uttar Pradesh,Bihar,Uttar Pradesh,240,146.0,95.0,35.0
+Chandigarh → Punjab,Chandigarh,Punjab,429,26.4,45.5,11.0
+Chhattisgarh → Chhattisgarh,Chhattisgarh,Chhattisgarh,229,40.5,76.4,9.0
+Delhi → Delhi,Delhi,Delhi,447,27.8,65.1,12.0
+Delhi → Haryana,Delhi,Haryana,2051,43.8,67.0,90.0
+Delhi → Maharashtra,Delhi,Maharashtra,815,524.3,100.0,427.0
+Delhi → Punjab,Delhi,Punjab,210,82.6,97.6,17.0
+Delhi → Uttar Pradesh,Delhi,Uttar Pradesh,791,116.6,93.4,92.0
+Goa → Goa,Goa,Goa,100,34.3,52.0,3.0
+Goa → Karnataka,Goa,Karnataka,170,120.4,99.4,20.0
+Goa → Maharashtra,Goa,Maharashtra,244,132.1,92.6,32.0
+Gujarat → Delhi,Gujarat,Delhi,773,354.9,98.8,274.0
+Gujarat → Gujarat,Gujarat,Gujarat,4491,39.1,77.1,176.0
+Gujarat → Haryana,Gujarat,Haryana,558,255.1,98.0,142.0
+Gujarat → Karnataka,Gujarat,Karnataka,935,345.1,99.5,323.0
+Gujarat → Maharashtra,Gujarat,Maharashtra,239,262.9,95.4,63.0
+Gujarat → Rajasthan,Gujarat,Rajasthan,149,115.3,99.3,17.0
+Haryana → Andhra Pradesh,Haryana,Andhra Pradesh,686,621.4,99.7,426.0
+Haryana → Bihar,Haryana,Bihar,1385,360.0,100.0,499.0
+Haryana → Delhi,Haryana,Delhi,1680,44.6,76.5,75.0
+Haryana → Gujarat,Haryana,Gujarat,942,303.0,98.0,285.0
+Haryana → Haryana,Haryana,Haryana,4508,39.8,76.8,179.0
+Haryana → Jharkhand,Haryana,Jharkhand,729,418.8,99.7,305.0
+Haryana → Karnataka,Haryana,Karnataka,4976,580.4,99.6,2888.0
+Haryana → Madhya Pradesh,Haryana,Madhya Pradesh,471,238.2,99.8,112.0
+Haryana → Maharashtra,Haryana,Maharashtra,2737,435.0,99.8,1190.0
+Haryana → Orissa,Haryana,Orissa,853,605.5,98.4,516.0
+Haryana → Punjab,Haryana,Punjab,957,98.0,95.5,94.0
+Haryana → Rajasthan,Haryana,Rajasthan,671,84.6,94.5,57.0
+Haryana → Tamil Nadu,Haryana,Tamil Nadu,1015,642.4,99.9,652.0
+Haryana → Telangana,Haryana,Telangana,1639,519.7,99.5,852.0
+Haryana → Uttar Pradesh,Haryana,Uttar Pradesh,1091,98.6,86.3,108.0
+Haryana → Uttarakhand,Haryana,Uttarakhand,154,71.3,91.6,11.0
+Haryana → West Bengal,Haryana,West Bengal,2862,616.0,99.3,1763.0
+Himachal Pradesh → Himachal Pradesh,Himachal Pradesh,Himachal Pradesh,245,165.9,90.6,41.0
+Himachal Pradesh → Punjab,Himachal Pradesh,Punjab,338,145.5,84.3,49.0
+Jammu & Kashmir → Punjab,Jammu & Kashmir,Punjab,127,110.8,81.1,14.0
+Jharkhand → Haryana,Jharkhand,Haryana,1084,372.4,98.7,404.0
+Jharkhand → Jharkhand,Jharkhand,Jharkhand,1332,96.6,91.9,129.0
+Karnataka → Andhra Pradesh,Karnataka,Andhra Pradesh,390,51.3,87.9,20.0
+Karnataka → Goa,Karnataka,Goa,145,115.2,100.0,17.0
+Karnataka → Haryana,Karnataka,Haryana,3394,630.4,99.3,2140.0
+Karnataka → Karnataka,Karnataka,Karnataka,11107,34.3,71.9,381.0
+Karnataka → Kerala,Karnataka,Kerala,271,163.5,99.6,44.0
+Karnataka → Madhya Pradesh,Karnataka,Madhya Pradesh,625,598.9,100.0,374.0
+Karnataka → Maharashtra,Karnataka,Maharashtra,1050,196.8,97.9,207.0
+Karnataka → Orissa,Karnataka,Orissa,818,521.0,99.5,426.0
+Karnataka → Rajasthan,Karnataka,Rajasthan,978,682.6,99.6,668.0
+Karnataka → Tamil Nadu,Karnataka,Tamil Nadu,259,83.2,86.1,22.0
+Karnataka → Telangana,Karnataka,Telangana,262,109.8,95.4,29.0
+Karnataka → West Bengal,Karnataka,West Bengal,216,869.9,100.0,188.0
+Kerala → Karnataka,Kerala,Karnataka,425,143.3,96.2,61.0
+Kerala → Kerala,Kerala,Kerala,1943,24.3,55.9,47.0
+Madhya Pradesh → Gujarat,Madhya Pradesh,Gujarat,244,118.0,100.0,29.0
+Madhya Pradesh → Haryana,Madhya Pradesh,Haryana,985,205.2,95.1,202.0
+Madhya Pradesh → Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,1989,78.2,87.7,156.0
+Madhya Pradesh → Maharashtra,Madhya Pradesh,Maharashtra,186,80.6,94.1,15.0
+Madhya Pradesh → Uttar Pradesh,Madhya Pradesh,Uttar Pradesh,567,211.7,98.9,120.0
+Maharashtra → Andhra Pradesh,Maharashtra,Andhra Pradesh,341,314.1,100.0,107.0
+Maharashtra → Delhi,Maharashtra,Delhi,965,579.7,100.0,559.0
+Maharashtra → Goa,Maharashtra,Goa,335,279.5,100.0,94.0
+Maharashtra → Gujarat,Maharashtra,Gujarat,818,187.6,99.4,153.0
+Maharashtra → Haryana,Maharashtra,Haryana,2934,416.1,98.5,1221.0
+Maharashtra → Jharkhand,Maharashtra,Jharkhand,246,784.5,100.0,193.0
+Maharashtra → Karnataka,Maharashtra,Karnataka,1584,260.5,98.9,413.0
+Maharashtra → Madhya Pradesh,Maharashtra,Madhya Pradesh,424,264.2,97.9,112.0
+Maharashtra → Maharashtra,Maharashtra,Maharashtra,11876,79.5,90.9,944.0
+Maharashtra → Telangana,Maharashtra,Telangana,1152,193.0,94.0,222.0
+Maharashtra → West Bengal,Maharashtra,West Bengal,667,746.8,100.0,498.0
+Orissa → Andhra Pradesh,Orissa,Andhra Pradesh,240,117.9,97.5,28.0
+Orissa → Karnataka,Orissa,Karnataka,706,772.3,100.0,545.0
+Orissa → Orissa,Orissa,Orissa,657,74.7,86.6,49.0
+Orissa → West Bengal,Orissa,West Bengal,491,223.1,100.0,110.0
+Punjab → Chandigarh,Punjab,Chandigarh,311,19.9,69.5,6.0
+Punjab → Haryana,Punjab,Haryana,820,128.6,99.6,105.0
+Punjab → Himachal Pradesh,Punjab,Himachal Pradesh,256,80.3,94.5,21.0
+Punjab → Jammu & Kashmir,Punjab,Jammu & Kashmir,102,146.7,97.1,15.0
+Punjab → Punjab,Punjab,Punjab,2985,57.3,80.0,171.0
+Rajasthan → Delhi,Rajasthan,Delhi,154,79.0,96.1,12.0
+Rajasthan → Gujarat,Rajasthan,Gujarat,142,129.8,100.0,18.0
+Rajasthan → Haryana,Rajasthan,Haryana,499,71.0,90.8,35.0
+Rajasthan → Rajasthan,Rajasthan,Rajasthan,4380,64.5,81.8,283.0
+Tamil Nadu → Andhra Pradesh,Tamil Nadu,Andhra Pradesh,146,107.4,91.8,16.0
+Tamil Nadu → Karnataka,Tamil Nadu,Karnataka,468,94.5,95.7,44.0
+Tamil Nadu → Pondicherry,Tamil Nadu,Pondicherry,154,56.0,96.8,9.0
+Tamil Nadu → Tamil Nadu,Tamil Nadu,Tamil Nadu,6549,26.5,69.2,173.0
+Tamil Nadu → Telangana,Tamil Nadu,Telangana,161,168.2,99.4,27.0
+Telangana → Andhra Pradesh,Telangana,Andhra Pradesh,690,115.8,96.7,80.0
+Telangana → Karnataka,Telangana,Karnataka,283,91.2,95.8,26.0
+Telangana → Madhya Pradesh,Telangana,Madhya Pradesh,614,377.4,100.0,232.0
+Telangana → Maharashtra,Telangana,Maharashtra,616,240.3,97.9,148.0
+Telangana → Orissa,Telangana,Orissa,303,324.0,100.0,98.0
+Telangana → Telangana,Telangana,Telangana,3804,39.3,80.7,150.0
+Telangana → West Bengal,Telangana,West Bengal,110,441.2,100.0,49.0
+Uttar Pradesh → Delhi,Uttar Pradesh,Delhi,500,130.3,90.8,65.0
+Uttar Pradesh → Haryana,Uttar Pradesh,Haryana,1352,122.3,95.0,165.0
+Uttar Pradesh → Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,4978,71.7,81.9,357.0
+Uttar Pradesh → Uttarakhand,Uttar Pradesh,Uttarakhand,120,38.3,81.7,5.0
+Uttarakhand → Haryana,Uttarakhand,Haryana,543,148.2,97.6,80.0
+Uttarakhand → Uttarakhand,Uttarakhand,Uttarakhand,619,59.2,81.6,37.0
+West Bengal → Assam,West Bengal,Assam,203,621.6,99.0,126.0
+West Bengal → Haryana,West Bengal,Haryana,658,561.1,99.7,369.0
+West Bengal → Jharkhand,West Bengal,Jharkhand,245,181.7,98.0,45.0
+West Bengal → Maharashtra,West Bengal,Maharashtra,374,833.6,100.0,312.0
+West Bengal → Orissa,West Bengal,Orissa,456,152.6,98.9,70.0
+West Bengal → West Bengal,West Bengal,West Bengal,4004,65.6,89.6,263.0

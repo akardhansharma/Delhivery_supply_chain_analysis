@@ -1,0 +1,26 @@
+state,total_trips,avg_delay_mins,delay_rate_pct,avg_distance_km
+Andhra Pradesh,5539,67.0,89.0,81.1
+Arunachal Pradesh,245,86.4,77.6,46.0
+Assam,2875,472.8,93.2,337.1
+Bihar,4166,207.9,95.0,193.8
+Chandigarh,507,24.3,47.9,21.3
+Chhattisgarh,229,40.5,76.4,45.7
+Delhi,4382,164.1,79.7,165.7
+Goa,514,109.2,87.0,132.6
+Gujarat,7202,138.4,85.2,189.0
+Haryana,27408,365.4,93.5,464.6
+Himachal Pradesh,587,153.5,87.1,57.2
+Jammu & Kashmir,226,78.2,79.2,97.7
+Jharkhand,2597,224.2,95.1,263.9
+Karnataka,19562,231.9,83.3,292.7
+Kerala,2413,45.6,63.5,48.0
+Madhya Pradesh,4018,130.4,92.3,137.2
+Maharashtra,21401,212.5,94.3,244.4
+Orissa,2094,349.6,95.5,292.4
+Punjab,4704,92.0,84.8,97.7
+Rajasthan,5230,66.8,83.3,69.0
+Tamil Nadu,7494,36.0,72.6,44.5
+Telangana,6476,126.8,87.9,138.0
+Uttar Pradesh,7086,84.8,84.9,72.9
+Uttarakhand,1162,100.8,89.1,68.5
+West Bengal,5963,199.1,92.8,183.0
